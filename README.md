@@ -25,3 +25,9 @@ The app demonstrates full-stack development, connecting a React frontend to an E
    ```bash
    git clone https://github.com/NikilKumaar/todo-backend.git
    cd todo-backend
+
+2. **Server Dependencies**
+   ```bash
+   cd todo-backend
+   npm install
+
