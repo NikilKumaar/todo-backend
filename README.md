@@ -24,4 +24,4 @@ The app demonstrates full-stack development, connecting a React frontend to an E
 
    ```bash
    git clone https://github.com/NikilKumaar/todo-backend.git
-   cd todolist-app
+   cd todo-backend
